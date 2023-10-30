@@ -9,6 +9,8 @@ Produced By
 AI's
 Responsive
 Knowledge
+# TLDR 
+ELMSPARK is a Text to Elm APP as a Service Project that we built as a submission into [spawnfest](https://spawnfest.org)
 
 ## Local
 
