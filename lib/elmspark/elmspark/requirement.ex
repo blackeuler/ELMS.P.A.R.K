@@ -2,6 +2,6 @@ defmodule ElmSpark.Requirement do
   defstruct [
     :feature_id,
     :id,
-    :invariant
+    :acceptance_criteria
   ]
 end
