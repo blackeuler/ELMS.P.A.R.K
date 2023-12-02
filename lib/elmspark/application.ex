@@ -15,6 +15,7 @@ defmodule Elmspark.Application do
       {Elmspark.Elmspark.ElmMakeServer, name: Elmspark.ElmMakeServer},
       {Elmspark.Elmspark.SparkServer, name: Elmspark.Elmspark.SparkServer},
       {Elmspark.ElmDocumentationServer, name: Elmspark.ElmDocumentationServer},
+      {Elmspark.EventStore, name: Elmspark.EventStore},
       # Start the Finch HTTP client for sending emails
       {Finch, name: Elmspark.Finch},
       # Start a worker by calling: Elmspark.Worker.start_link(arg)
